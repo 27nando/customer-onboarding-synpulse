@@ -1,6 +1,7 @@
 # customer-onboarding-synpulse
 
-This is a basic customer onboarding API made by Nandini Gupta for the work as a web development intern at Synpulse. 
+This is a basic customer onboarding RESTAPI made by Nandini Gupta using Java and Spring Boot 
+for the work as a web development intern at Synpulse. 
 
 The main functions that it performs are:
 1. Creation of user
